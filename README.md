@@ -1,5 +1,4 @@
-![banner](https://github.com/LilithCharlie/LilithCharlie/blob/main/Lilith%20banner.png?raw=true)
-
+[![banner](https://github.com/LilithCharlie/LilithCharlie/blob/main/Lilith%20banner.png?raw=true)](https://www.linkedin.com/in/lilith-charlie-lima-095a8437b)
 ## Olá, eu sou a Lilith e esse é meu portfólio
 
 <!--
