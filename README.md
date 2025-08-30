@@ -1,3 +1,5 @@
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/exuliano)](https://www.instagram.com/exuliano)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilith-charlie-lima-095a8437b)](https://www.linkedin.com/in/lilith-charlie-lima-095a8437b)
 [![banner](https://github.com/LilithCharlie/LilithCharlie/blob/main/Lilith%20banner.png?raw=true)](https://www.linkedin.com/in/lilith-charlie-lima-095a8437b)
 ## Olá, eu sou a Lilith e esse é meu portfólio
 
