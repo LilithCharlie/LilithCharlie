@@ -1,3 +1,5 @@
+![banner](https://github.com/LilithCharlie/LilithCharlie/blob/main/Lilith%20banner.png?raw=true)
+
 ## Olá, eu sou a Lilith e esse é meu portfólio
 
 <!--
