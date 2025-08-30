@@ -2,15 +2,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilith-charlie-lima-095a8437b)](https://www.linkedin.com/in/lilith-charlie-lima-095a8437b)
 [![banner](https://github.com/LilithCharlie/LilithCharlie/blob/main/Lilith%20banner.png?raw=true)](https://www.linkedin.com/in/lilith-charlie-lima-095a8437b)
 ## <p align="center">Olá, eu sou a Lilith e esse é meu portfólio</p>
-sou Lilith Charlie, aspirante a programadora, estou criando meus primeiro projetos para ingressar nesta area....
+Sou Lilith Charlie, aspirante a programadora, estou criando meus primeiro projetos para ingressar nesta area....
 
-## <p align="center">Minhas Habilidades</p>
-
-
-## <p align="center">Meus Principais Projetos</p>
+## <p align="center">Minhas habilidades</p>
 
 
-🔧 [Lilith's Tools](https://github.com/LilithCharlie/Lilith-s-Tools): Uma ferramenta para centralizar os downloads de softwares importantes em um só local facilitando formatações!
+## <p align="center">Meus principais projetos</p>
+- 🔧 [Lilith's Tools](https://github.com/LilithCharlie/Lilith-s-Tools): Uma ferramenta para centralizar os downloads de softwares importantes em um só local facilitando formatações!
 
 <!--
 **LilithCharlie/LilithCharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
