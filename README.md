@@ -9,5 +9,5 @@ Sou Lilith Charlie, aspirante a programadora, estou criando meus primeiro projet
 ## <p align="center">Meus principais projetos</p>
 - 🔧 [Lilith's Tools](https://github.com/LilithCharlie/Lilith-s-Tools): Uma ferramenta para centralizar os downloads de softwares importantes em um só local facilitando formatações!
 
-- ✅ [Lilith's To-do](https://github.com/LilithCharlie/Lilith-s-To-do-List): Uma lista de tarfeas funcional rodando no console e foi o projeto final do curso DiversificaDev Turma 6 - Python 🐙
+- ✅ [Lilith's To-do](https://github.com/LilithCharlie/Lilith-s-To-do-List): Uma lista de tarfeas funcional rodando no console, foi o projeto final do curso DiversificaDev Turma 6 - Python 🐙
 
